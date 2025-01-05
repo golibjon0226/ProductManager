@@ -1,6 +1,8 @@
 # ProductManager
 CRUD task
 
+loyihani yuklab olgandan kegin quydagi ketmaketligda ishni bajaring 
+
 1. loyiha .Net 9 da yaratilgan shuning uchun loyihani ishga tushurishdan oldin .Net 9 o'rnatilagniga ishonch hosil qiling
 cmd oynada quydagi buyruq orqali .Net versiyasini tekshiring
 o'rnatilmagan bo'lsa quydagi link orqali o'rnatishingiz mumkun 
