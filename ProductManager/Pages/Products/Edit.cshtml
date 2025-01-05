@@ -1,0 +1,44 @@
+﻿@page
+@model ProductManager.Pages.Products.EditModel
+<form method="post" enctype="multipart/form-data">
+    <input asp-for="Product.Id" hidden />
+    <div class="border p-3 mt-4">
+        <div class="row pb-2">
+            <h2 class="text-primary">Edit Category</h2>
+        </div>
+        <div asp-validation-summary="All" class="text-danger"></div>
+        <div class="mb-3 row p-1">
+            <label asp-for="Product.Name" class="p-0"></label>
+            <input asp-for="Product.Name" class="form-control" />
+            <span asp-Validation-for="Product.Name" class="text-danger"></span>
+        </div>
+        <div class="mb-3 row p-1">
+            <label asp-for="Product.Price" class="p-0"></label>
+            <input type="number" asp-for="Product.Price" class="form-control" />
+            <span asp-Validation-for="Product.Price" class="text-danger"></span>
+        </div>
+        <div class="mb-3 row p-1">
+            <label asp-for="Product.Description" class="p-0"></label>
+            <input asp-for="Product.Description" class="form-control" />
+            <span asp-Validation-for="Product.Description" class="text-danger"></span>
+        </div>
+        <div class="mb-3 row p-1">
+            <label for="UploadedImage" class="p-0">Image</label>
+            <input type="file" id="UploadedImage" name="UploadedImage" class="form-control" />
+        </div>
+        <div class="row">
+            <div class="col-6 col-md-3">
+                <button type="submit" class="btn btn-primary form-control" style="width:150px">Update</button>
+            </div>
+            <div class="col-6 col-md-3">
+                <a asp-page="/Products/Index" class="btn btn-secondary border form-control">Back To List</a>
+            </div>
+        </div>
+    </div>
+</form>
+
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}

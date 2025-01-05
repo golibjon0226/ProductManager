@@ -1,0 +1,559 @@
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\appsettings.json
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\ProductManager.staticwebassets.runtime.json
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\ProductManager.staticwebassets.endpoints.json
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\ProductManager.exe
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\ProductManager.deps.json
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\ProductManager.runtimeconfig.json
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\ProductManager.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\ProductManager.pdb
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\Humanizer.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\ProductManager.csproj.AssemblyReference.cache
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\ProductManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\ProductManager.AssemblyInfoInputs.cache
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\ProductManager.AssemblyInfo.cs
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\ProductManager.csproj.CoreCompileInputs.cache
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\ProductManager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\ProductManager.RazorAssemblyInfo.cache
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\ProductManager.RazorAssemblyInfo.cs
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\scopedcss\bundle\ProductManager.styles.css
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\scopedcss\projectbundle\ProductManager.bundle.scp.css
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\cuw9rzut6b-61n19gt1b8.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\6hqjseffef-bqjiyaj88i.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\33eyjr18d9-c2jlpeoesf.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\vjb5vv24sx-erw9l3u2r3.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\9jpja0ggh8-aexeepp0ev.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\815athv1lm-d7shbmvgxk.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\26aisrwu2d-ausgxo2sd3.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\txanpdl2dh-k8d9w2qqmf.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\13x54x0wf2-cosvhxvwiu.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\7j1pmoou8o-ub07r2b239.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\zdwid4xx31-fvhpjtyr6v.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\r1mni9t7xc-b7pk76d08c.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\r0rylvkes3-fsbi9cje9m.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\qktyp6dhmi-rzd6atqjts.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\bqu2u8za73-ee0r1s7dh0.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\w1yjhrt4mz-dxx9fxp4il.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\lwmqax1t9c-jd9uben2k1.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\bvaqcx6xcg-khv3u5hwcm.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\zg0jgb2msp-r4e9w2rdcm.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\oc45637nk2-lcd1t2u6c8.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\gfiz46cnp8-c2oey78nd0.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\futud9v76n-tdbxkamptv.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\h2imzbw7rg-j5mq2jizvt.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\9r7e99j7q0-06098lyss8.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\33x32kwcma-nvvlpmu67g.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\821jvywib0-s35ty4nyc5.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\xhngxc0h4z-pj5nd1wqec.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\4qpwjhisx8-46ein0sx1k.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\0o5opgjwyp-v0zj4ognzu.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\i0jce0uu4z-37tfw0ft22.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\c3g546rnpx-hrwsygsryq.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\wezyqu2qy5-pk9g2wxc8p.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\q962j6xguu-ft3s53vfgj.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\dfc7zrzqeg-6cfz1n2cew.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\0y64ccgf7j-6pdc2jztkx.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\78xznidcyf-493y06b0oq.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\an7wxtu1q6-iovd86k7lj.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\7sfdgmnrqg-vr1egmr9el.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\u7l6j7a12f-kbrnm935zg.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\xxa7m8blj5-jj8uyg4cgr.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\i9xk0gqzgf-y7v9cxd14o.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\1fo71y7a7g-notf2xhcfb.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\35ucjb191m-h1s4sie4z3.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\tbwy4yi7tx-63fj8s7r0e.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\7f9nhlwa98-0j3bgjxly4.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\2xjb4lwepy-47otxtyo56.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\0ys489jqf6-4v8eqarkd7.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\lk2xi7uc3g-356vix0kms.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\15wvo9oo0x-83jwlth58m.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\5r3ovsmuwg-mrlpezrjn3.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\hwrwje276f-lzl9nlhx6b.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\8fxke1h2pq-ag7o75518u.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\7awbmjh2xa-x0q3zqp4vz.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\i7wpf7cddt-0i3buxo5is.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\zcskxcyg3z-o1o13a6vjx.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\gokl0uid33-ttgo8qnofa.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\b6qlv6uk3o-2z0ns9nrw6.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\ns6zqb3kp1-muycvpuwrr.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\9qwr5k1hor-87fc7y1x7t.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\4mtyuqncn9-mlv21k5csn.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\rc8dr703j3-5z1vbeu03m.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\y8l57fb16q-5z1vbeu03m.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\staticwebassets\msbuild.ProductManager.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\staticwebassets\msbuild.ProductManager.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\staticwebassets\msbuild.build.ProductManager.props
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ProductManager.props
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ProductManager.props
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\ProductM.F4B8B69F.Up2Date
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\ProductManager.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\refint\ProductManager.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\ProductManager.pdb
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\ProductManager.genruntimeconfig.cache
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\ref\ProductManager.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\iyg5pq46qb-c2tiyv64ts.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\3q0vuq5od5-6b9nfc4n3r.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\qe686bmmjb-nakmwdwsxp.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\n5j1z3wynd-st1cbwfwo5.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\471s0bhfte-5p029spbuu.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\nzmq7rk4n4-5vj65cig9w.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\xxnan086vx-e6q6xbwqzk.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\k44134dyfb-2q4vfeazbq.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\vlcvx79fl2-dy6jgresuo.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\0scw182hys-o371a8zbv2.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\fn7zpqdab7-mk8rdyw69w.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\7fjpav1vdn-jeal3x0ldm.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\9qip3uaxx5-z7kmom2977.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\4b3b2z4qfe-okkk44j0xs.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\6ammmdieon-97yrjpyf9r.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\o44kkbk6gx-cwzlr5n8x4.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\t749q837zi-y53cy5s2zj.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\yym7oq6g5f-wmug9u23qg.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\qn2d8kcwzf-z9shlbduue.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\dtctvvk9yu-j75batdsum.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\zav8qahx5b-2yn17lgxub.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\1pbqgqkwj4-vy0bq9ydhf.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\9y45e0r80j-ophe14yye5.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\b4300zox7i-ab1c3rmv7g.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\o7rh5e96p8-ik6i2hrs65.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\nlseingjgx-56d2bn4wt9.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\g6aydesh6r-ozu22stjof.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\kiqm5phnkh-73kdqttayv.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\zrcq548wua-6gzpyzhau4.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\97984i09h7-8inm30yfxf.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\culhqh0guv-gjcw7pocpk.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\85tz7rz5fi-4gxs3k148c.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\5ro7kxtyeq-6l4ir0ityv.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\oi2bdglkfv-fctod5rc9n.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\5mvfz2czen-f6zq8v6eb3.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\mp40anj203-kbynt5jhd9.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\5oqjk4xm7z-89qbw8ngem.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\blmjpn8ob2-c2nslu3uf3.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\2hho2cv7q8-n5w6o92d9r.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\90vczs9893-2lgwfvgpvi.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\jy1yzxz5h8-jqwzsa9uv6.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\6su0jm6sav-wsezl0heh6.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\yj34h2m91g-1piudyfv7h.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\abmll372hs-6ukhryfubh.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\c8v0ph6dlm-4908xmbfjr.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\itttlfotq0-u33ctipx7g.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\lyyd72lt0g-03hjc8e09r.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\hvw4xd34je-48y08845bh.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\ptszqc1w0q-356vix0kms.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\ljtlv6fbut-wus95c49fh.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\z3bidd4mpg-sjab29p8z5.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\dbjaockoao-d2pxujwhw3.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\qvdusnaofn-4dm14o4hmc.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\pfqetx59v8-x0q3zqp4vz.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\d8zas0xm32-x9hp3no9dl.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\uhlq0nvrc1-ehgnz7f14e.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\mi715ty3tl-5pze98is44.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\compressed\84u0mkx0ob-mlv21k5csn.gz
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\productmanager\bin\Debug\net9.0\Npgsql.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\productmanager\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\gturdaliev\Desktop\Product\ProductManager\ProductManager\ProductManager\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\appsettings.json
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\ProductManager.staticwebassets.endpoints.json
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\ProductManager.staticwebassets.runtime.json
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\ProductManager.exe
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\ProductManager.deps.json
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\ProductManager.runtimeconfig.json
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\ProductManager.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\ProductManager.pdb
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\Humanizer.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\Npgsql.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\ProductManager.csproj.AssemblyReference.cache
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\ProductManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\ProductManager.AssemblyInfoInputs.cache
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\ProductManager.AssemblyInfo.cs
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\ProductManager.csproj.CoreCompileInputs.cache
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\ProductManager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\ProductManager.RazorAssemblyInfo.cache
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\ProductManager.RazorAssemblyInfo.cs
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\ProductManager.sourcelink.json
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\scopedcss\bundle\ProductManager.styles.css
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\scopedcss\projectbundle\ProductManager.bundle.scp.css
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\iyg5pq46qb-c2tiyv64ts.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\cuw9rzut6b-61n19gt1b8.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\3q0vuq5od5-6b9nfc4n3r.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\6hqjseffef-bqjiyaj88i.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\33eyjr18d9-c2jlpeoesf.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\vjb5vv24sx-erw9l3u2r3.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\9jpja0ggh8-aexeepp0ev.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\815athv1lm-d7shbmvgxk.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\26aisrwu2d-ausgxo2sd3.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\txanpdl2dh-k8d9w2qqmf.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\13x54x0wf2-cosvhxvwiu.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\7j1pmoou8o-ub07r2b239.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\zdwid4xx31-fvhpjtyr6v.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\r1mni9t7xc-b7pk76d08c.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\r0rylvkes3-fsbi9cje9m.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\qktyp6dhmi-rzd6atqjts.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\bqu2u8za73-ee0r1s7dh0.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\w1yjhrt4mz-dxx9fxp4il.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\lwmqax1t9c-jd9uben2k1.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\bvaqcx6xcg-khv3u5hwcm.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\zg0jgb2msp-r4e9w2rdcm.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\oc45637nk2-lcd1t2u6c8.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\gfiz46cnp8-c2oey78nd0.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\futud9v76n-tdbxkamptv.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\h2imzbw7rg-j5mq2jizvt.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\9r7e99j7q0-06098lyss8.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\33x32kwcma-nvvlpmu67g.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\821jvywib0-s35ty4nyc5.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\xhngxc0h4z-pj5nd1wqec.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\4qpwjhisx8-46ein0sx1k.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\0o5opgjwyp-v0zj4ognzu.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\i0jce0uu4z-37tfw0ft22.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\c3g546rnpx-hrwsygsryq.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\wezyqu2qy5-pk9g2wxc8p.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\q962j6xguu-ft3s53vfgj.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\dfc7zrzqeg-6cfz1n2cew.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\0y64ccgf7j-6pdc2jztkx.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\78xznidcyf-493y06b0oq.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\an7wxtu1q6-iovd86k7lj.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\7sfdgmnrqg-vr1egmr9el.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\u7l6j7a12f-kbrnm935zg.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\xxa7m8blj5-jj8uyg4cgr.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\i9xk0gqzgf-y7v9cxd14o.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\1fo71y7a7g-notf2xhcfb.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\35ucjb191m-h1s4sie4z3.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\tbwy4yi7tx-63fj8s7r0e.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\7f9nhlwa98-0j3bgjxly4.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\2xjb4lwepy-47otxtyo56.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\0ys489jqf6-4v8eqarkd7.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\lk2xi7uc3g-356vix0kms.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\15wvo9oo0x-83jwlth58m.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\5r3ovsmuwg-mrlpezrjn3.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\hwrwje276f-lzl9nlhx6b.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\8fxke1h2pq-ag7o75518u.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\7awbmjh2xa-x0q3zqp4vz.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\i7wpf7cddt-0i3buxo5is.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\zcskxcyg3z-o1o13a6vjx.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\gokl0uid33-ttgo8qnofa.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\b6qlv6uk3o-2z0ns9nrw6.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\ns6zqb3kp1-muycvpuwrr.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\9qwr5k1hor-87fc7y1x7t.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\4mtyuqncn9-mlv21k5csn.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\qe686bmmjb-nakmwdwsxp.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\n5j1z3wynd-st1cbwfwo5.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\471s0bhfte-5p029spbuu.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\nzmq7rk4n4-5vj65cig9w.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\xxnan086vx-e6q6xbwqzk.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\k44134dyfb-2q4vfeazbq.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\vlcvx79fl2-dy6jgresuo.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\0scw182hys-o371a8zbv2.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\fn7zpqdab7-mk8rdyw69w.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\7fjpav1vdn-jeal3x0ldm.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\9qip3uaxx5-z7kmom2977.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\4b3b2z4qfe-okkk44j0xs.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\6ammmdieon-97yrjpyf9r.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\o44kkbk6gx-cwzlr5n8x4.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\t749q837zi-y53cy5s2zj.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\yym7oq6g5f-wmug9u23qg.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\qn2d8kcwzf-z9shlbduue.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\dtctvvk9yu-j75batdsum.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\zav8qahx5b-2yn17lgxub.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\1pbqgqkwj4-vy0bq9ydhf.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\9y45e0r80j-ophe14yye5.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\b4300zox7i-ab1c3rmv7g.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\o7rh5e96p8-ik6i2hrs65.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\nlseingjgx-56d2bn4wt9.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\g6aydesh6r-ozu22stjof.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\kiqm5phnkh-73kdqttayv.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\zrcq548wua-6gzpyzhau4.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\97984i09h7-8inm30yfxf.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\culhqh0guv-gjcw7pocpk.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\85tz7rz5fi-4gxs3k148c.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\5ro7kxtyeq-6l4ir0ityv.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\oi2bdglkfv-fctod5rc9n.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\5mvfz2czen-f6zq8v6eb3.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\mp40anj203-kbynt5jhd9.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\5oqjk4xm7z-89qbw8ngem.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\blmjpn8ob2-c2nslu3uf3.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\2hho2cv7q8-n5w6o92d9r.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\90vczs9893-2lgwfvgpvi.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\jy1yzxz5h8-jqwzsa9uv6.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\6su0jm6sav-wsezl0heh6.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\yj34h2m91g-1piudyfv7h.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\abmll372hs-6ukhryfubh.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\c8v0ph6dlm-4908xmbfjr.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\itttlfotq0-u33ctipx7g.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\lyyd72lt0g-03hjc8e09r.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\hvw4xd34je-48y08845bh.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\ptszqc1w0q-356vix0kms.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\ljtlv6fbut-wus95c49fh.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\z3bidd4mpg-sjab29p8z5.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\dbjaockoao-d2pxujwhw3.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\qvdusnaofn-4dm14o4hmc.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\pfqetx59v8-x0q3zqp4vz.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\d8zas0xm32-x9hp3no9dl.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\uhlq0nvrc1-ehgnz7f14e.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\mi715ty3tl-5pze98is44.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\84u0mkx0ob-mlv21k5csn.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\rc8dr703j3-5z1vbeu03m.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\compressed\y8l57fb16q-5z1vbeu03m.gz
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\staticwebassets\msbuild.ProductManager.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\staticwebassets\msbuild.ProductManager.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\staticwebassets\msbuild.build.ProductManager.props
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ProductManager.props
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ProductManager.props
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\ProductM.F4B8B69F.Up2Date
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\ProductManager.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\refint\ProductManager.dll
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\ProductManager.pdb
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\ProductManager.genruntimeconfig.cache
+C:\Users\gturdaliev\Desktop\New folder\ProductManager\ProductManager\obj\Debug\net9.0\ref\ProductManager.dll
